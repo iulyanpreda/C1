@@ -12,7 +12,7 @@ namespace Ex4T3_stringToArray
             for (int i = 0; i < len ; i++)
             {
                     v[i] = s[i];
-                    Console.WriteLine(v[i]);
+                    Console.Write(v[i]);
             }
 
         }
